@@ -1,8 +1,10 @@
 # HackBio-Internship-Stage-2
 
-*Used Data*
+**Used Data**
+
 Raw Cholera Outbreak Data:
-from the WHO (https://raw.githubusercontent.com/HackBio-Internship/public\_datasets/main/R/WHO\_AMR\_PRODUCTS\_DATA.tsv)
+
+(https://raw.githubusercontent.com/HackBio-Internship/public\_datasets/main/R/WHO\_AMR\_PRODUCTS\_DATA.tsv)
 
 # Authors(@slack):
 Abdullah Ibrahim Ali(@Abdullah108)
