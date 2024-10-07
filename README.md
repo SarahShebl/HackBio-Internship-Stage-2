@@ -13,7 +13,9 @@ Nada Esmael Sleim (@Eddy27)
 
 # Steps (100% using R script)
 1-Download the data
+
 2-Data analysis and Manipulation
+
 3-Generate Meaningful plots and infographic summary identify the Trends and significant product
 
 Infographic Summary
